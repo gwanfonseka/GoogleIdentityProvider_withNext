@@ -1,0 +1,33 @@
+.headerWrapper{
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    align-items: center;
+}
+
+.logoLink {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo {
+    width: 100px;
+}
+
+.logoName {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.navBar {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    align-items: center;
+    flex: auto;
+    justify-content: flex-end;
+}
